@@ -1,0 +1,727 @@
+[
+  {
+    "image": "PMI_Class_Split/val/images/FRESH/2011.011.07.21.2011 (11).jpg",
+    "label": "FRESH",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The body contour appears near normal, and the skin appears intact but shows signs of bruising and minor abrasions, with no clear visible insect activity present."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/FRESH/2011.023.01.03.2012 (6).jpg",
+    "label": "FRESH",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The body contour appears near normal, and the skin appears smooth and intact, with no visible signs of discoloration or later-stage insect colonization. The lower extremities extend beyond the frame."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/FRESH/2011.023.12.20.2011 (3).jpg",
+    "label": "FRESH",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended. The body contour appears near normal, and the skin appears smooth and intact, with no visible signs of advanced decomposition or injury."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/FRESH/2011.023.12.23.2011 (4).jpg",
+    "label": "FRESH",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended. The body contour appears near normal, and the skin appears intact, with gloves visible on the body."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/FRESH/2011.023.12.27.2011 (4).jpg",
+    "label": "FRESH",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The body contour appears near normal, and the skin appears fairly intact, with white tags attached to the wrists and ankles."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/FRESH/2012.002.01.06.2012 (3).jpg",
+    "label": "FRESH",
+    "caption": "In this sample, a human subject is positioned supine, with the upper body and arms extended outward. The body contour appears near normal, and the skin appears intact but shows signs of bruising and mild fullness, particularly around the right arm and shoulder area. The torso is covered by a white sheet, and medical devices such as an IV line and electrodes are attached to the chest."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/FRESH/2012.002.01.07.2012 (2).jpg",
+    "label": "FRESH",
+    "caption": "In this sample, a human subject lies supine on the ground, with the upper body and arms extended outward. The body contour appears near normal, and the skin appears pale and intact, with no visible signs of surface change, mild discoloration, or discoloration. The limbs are positioned naturally, and the full subject is visible within the frame."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/FRESH/2012.002.01.09.2012 (7).jpg",
+    "label": "FRESH",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The body contour appears near normal, and the skin appears intact but shows signs of bruising and minor abrasions, with some areas wrapped in bandage-like material."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/FRESH/2012.002.01.10.2012 (9).jpg",
+    "label": "FRESH",
+    "caption": "In this sample, a human subject lies supine on a grassy surface, with the upper body and arms extended outward. The body contour appears near normal, and the skin appears smooth and intact, with no visible signs of discoloration or later-stage insect colonization."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/FRESH/2012.002.01.12.2012 (7).jpg",
+    "label": "FRESH",
+    "caption": "In this sample, a human subject lies supine on a grassy surface, with the upper body and arms extended outward. The body contour appears near normal, and the skin appears smooth and intact, with no visible signs of discoloration or later-stage insect colonization. The lower extremities extend beyond the frame."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/FRESH/2012.002.01.12.2012 (8).jpg",
+    "label": "FRESH",
+    "caption": "In this sample, a human subject lies supine on a grassy surface, with the upper body and arms extended outward. The body contour appears near normal, and the skin appears smooth and intact, with no visible signs of discoloration or later-stage insect colonization. The lower extremities extend beyond the frame."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/FRESH/2012.003.02.01.2012 (5).jpg",
+    "label": "FRESH",
+    "caption": "In this sample, a human subject lies supine on grass, with the full body visible. The body contour appears near normal, and the skin appears fairly intact, with no clear visible insect activity or obvious fluid release."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/FRESH/2019.001.01.09.2019 (12).JPG",
+    "label": "FRESH",
+    "caption": "In this sample, a human subject lies supine on dry grass, with the lower extremities extended outward. The body contour appears near normal, and the skin appears smooth and pale, with no visible signs of discoloration or later-stage insect colonization. The full subject is visible, though the head is partially obscured by the grass."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/FRESH/2019.001.01.10.2019 (13).JPG",
+    "label": "FRESH",
+    "caption": "In this sample, a human subject lies supine on dry grass, with all extremities extended outward. The body contour appears near normal, and the skin appears intact but shows signs of minor discoloration and some superficial abrasions, with no clear visible insect activity present."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/FRESH/2019.001.01.14.2019 (12).JPG",
+    "label": "FRESH",
+    "caption": "In this sample, a human subject lies supine on dry grass, with the lower extremities extended outward. The body contour appears near normal, and the skin appears intact but shows signs of red netting around the ankles, suggesting some form of restraint or tagging. The torso is exposed, revealing no significant surface irregularities or discolorations."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/FRESH/2019.001.01.16.2019 (12).JPG",
+    "label": "FRESH",
+    "caption": "In this sample, a human subject lies supine on a grassy surface, with all extremities extended outward. The body contour appears near normal, and the skin appears intact but shows signs of minor abrasions and redness, particularly around the feet, which are bound with red material."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/FRESH/2019.001.01.17.2019 (12).JPG",
+    "label": "FRESH",
+    "caption": "In this sample, a human subject lies supine on grass, with the lower extremities extended outward. The body contour appears near normal, and the skin appears smooth and intact, with no visible signs of surface change, mild discoloration, or discoloration. The full subject is visible, with no areas obscured or out of frame."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/FRESH/2019.001.01.22.1019 (12).JPG",
+    "label": "FRESH",
+    "caption": "In this sample, a human subject lies supine on dry grass, with the lower extremities extended outward. The body contour appears near normal, and the skin appears intact but shows signs of redness and some minor discoloration, particularly around the feet, which are bound with red material. The torso is mostly unblemished, with no clear visible insect activity or insects."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2011.011.07.22.2011 (10).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin appears swollen with visible marbling, and limited visible insect activity is present."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2011.011.07.22.2011 (11).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin appears swollen with visible marbling, and limited visible insect activity is present."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2011.011.07.22.2011 (2).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin appears swollen and marbled, with visible bruises and discoloration on the limbs."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2011.021.12.01.2011 (1).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with arms extended outward and legs slightly bent at the knees. The skin appears pale and mildly bloated, with visible discoloration and marbling. The abdomen appears distended, and limited visible insect activity is present. The subject's face is partially visible, showing no signs of decomposition."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2011.021.12.06.2011 (6).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with arms extended and legs slightly bent. The skin appears intact but shows signs of trauma, including visible wounds and bloodstains, with mild swelling and early bloating-related discoloration. The torso is fully exposed, revealing visible abdominal distention and swelling."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2011.021.12.14.2011 (4).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended. The skin shows signs of insect activity, with visible insect activity visible on the abdomen and arms, indicating early-stage decomposition, with mild swelling and early bloating-related discoloration."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2011.021.12.28.2011 (3).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on the ground, with the upper body and arms extended outward. The skin exhibits significant marbling and discoloration, particularly around the chest and abdomen, where the contours appear swollen and distorted."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2011.022.12.06.2011 (8).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin shows signs of trauma with visible stitches and bloodstains, and the abdomen exhibits a large, sutured wound, with mild swelling and early bloating-related discoloration. The lower extremities are partially visible, with one leg bent at the knee."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2011.022.12.07.2011 (4).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin shows signs of trauma with visible stitches and bloodstains, and the abdomen appears swollen and discolored."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2011.022.12.12.2011 (2).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin shows signs of trauma, including lacerations and bloodstains, with some areas appearing swollen and discolored."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2011.022.12.15.2011 (7).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with limbs extended and hands covered by gloves. The skin shows signs of bruising and discoloration, particularly around the chest and abdomen, where there is also a visible surgical scar, with mild swelling and early bloating-related discoloration."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2011.022.12.22.2011 (5).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin appears swollen with visible marbling, with signs of insect activity around the head area."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2011.023.01.02.2012 (1).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended. The skin appears intact but shows signs of drying and slight discoloration, with limited visible insect activity, with mild swelling and early bloating-related discoloration."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2011.023.01.04.2012 (1).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin appears intact but shows signs of insect activity, with small insects visible on the exposed areas, with mild swelling and early bloating-related discoloration. The subject's face is partially covered by hair."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2011.023.01.05.2012 (2).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended. The skin appears swollen with visible insect activity, particularly around the head and neck area. The torso shows signs of decomposition, including darkened patches and marbling."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2011.023.01.06.2012 (2).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body partially covered by a net. The skin exhibits signs of decomposition, with some areas appearing swollen and discolored. The abdomen shows signs of swelling, and there is visible insect activity around the torso."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2011.023.01.09.2012 (8).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin exhibits marked marbling and discoloration, particularly around the chest and abdomen, where the contours appear distended."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2011.023.12.22.2011 (12).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin appears smooth but slightly wrinkled, with mild discoloration with limited visible insect activity, with mild swelling and early bloating-related discoloration. The lower extremities extend beyond the frame."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2011.023.12.22.2011 (17).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms prominently displayed. The skin appears swollen and is covered with water droplets, suggesting recent exposure to moisture. The arms are crossed over the chest, and the hands are wrapped in translucent gloves."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2012.002.01.08.2012 (7).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with all extremities and torso visible. The skin appears intact but shows signs of bruising and minor abrasions, with limited visible insect activity, with mild swelling and early bloating-related discoloration."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2012.002.01.09.2012 (8).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin appears pale with early bloating-related discoloration, with mild discoloration with limited visible insect activity, with mild swelling and early bloating-related discoloration. The lower extremities extend beyond the frame."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2012.002.01.15.2012 (7).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin appears intact but shows signs of bruising and minor abrasions, with limited visible insect activity, with mild swelling and early bloating-related discoloration."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2012.003.01.30.2012 (6).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on a grassy surface, with the upper body and arms extended outward. The skin appears pale and taut, with early bloating-related discoloration with limited visible insect activity, with mild swelling and early bloating-related discoloration."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2012.003.01.31.2012 (6).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin appears pale and taut, with mild discoloration with limited visible insect activity, with mild swelling and early bloating-related discoloration. The lower extremities are not fully visible within the frame."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2012.003.02.03.2012 (5).JPG",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with arms extended above the head and legs slightly bent at the knees. The skin appears swollen, with visible insects on the face and upper chest area. The body is complete, with mild contour distortion is visible."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2012.003.02.06.2012 (7).JPG",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with all extremities and torso visible. The skin appears swollen, with no significant discoloration or insect activity noted."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2012.003.02.08.2012 (7).JPG",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin appears swollen, with some areas showing signs of discoloration and marbling, particularly around the neck and chest region."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2012.003.02.09.2012 (5).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin appears swollen, with some areas showing signs of discoloration and marbling, particularly around the neck and chest region."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2012.003.02.10.2012 (3).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin appears swollen, with visible plastic gloves on the hands, and the head is positioned at one end of the body."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2012.003.02.13.2012 (4).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on a grassy surface, with the upper body and arms extended outward. The skin appears swollen, with visible marbling and some green discoloration around the head area. The lower extremities are partially visible, showing signs of swelling and distortion."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2012.048.12.12.2012 (4).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine in an outdoor setting, with the upper body and head clearly visible. The skin appears swollen and discolored, with visible visible insect activity activity and some early decomposition fluids present around the torso area."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2012.048.12.13.2012 (2).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin appears swollen and discolored, with visible visible insect activity activity and some early decomposition fluids present."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2012.048.12.14.2012 (6).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on a grassy surface, with the full body visible. The skin shows signs of trauma and discoloration, with some areas appearing swollen and discolored."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2012.048.12.14.2012 (7).jpg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on the ground, with the upper body and arms extended outward. The skin appears swollen and discolored, with visible injuries and marks across the torso and limbs."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2014.001.01.10.2014 (2).jpeg",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on a grassy surface, with the upper body and arms extended outward. The skin appears taut and slightly discolored, with limited visible insect activity or early decomposition fluids, with mild swelling and early bloating-related discoloration. The lower extremities are not fully visible within the frame."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2015.009.03.03.2015 (7).JPG",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with limbs extended and a visible portion of the torso. The skin shows signs of trauma with bloodstains, with tags attached to the wrists and ankles, with mild swelling and early bloating-related discoloration."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2015.009.03.05.2015 (7).JPG",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin appears pale and slightly marbled, with some areas showing signs of discoloration. The abdomen is visibly distended, with visible tags attached to the limbs."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2015.009.03.10.2015 (7).JPG",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin is covered with debris and small insects, with visible patches of discoloration and marbling."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2015.009.03.12.2015 (7).JPG",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin shows signs of trauma, with visible red marks and discoloration, with patches of dried vegetation adhering to the surface, with mild swelling and early bloating-related discoloration."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2019.001.01.21.2019 (12).JPG",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with the lower extremities extended outward. The skin appears taut and slightly discolored, with red netting visible around the ankles, with mild swelling and early bloating-related discoloration. The torso is mostly intact, showing visible abdominal distention and swelling."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2019.001.01.30.2019 (12).JPG",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with the lower extremities extended outward. The skin appears swollen and fairly intact, with no visible signs of peeling, marbling, or discoloration. The torso and limbs are fully visible, with no areas obscured or out of frame."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2019.001.02.05.2019 (12).JPG",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with all extremities extended. The skin appears swollen with visible marbling, and there is no insect activity or early decomposition fluids present."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2023.025.04.26.2023 (11).JPG",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin appears mildly bloated with slight discoloration, with mild discoloration with limited visible insect activity. The lower extremities are covered by red material, obscuring further details."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/BLOAT/2023.025.04.27.2023 (11).JPG",
+    "label": "BLOAT",
+    "caption": "In this sample, a human subject lies supine on grass, with arms extended outward and legs slightly bent at the knees. The skin appears pale, with some areas showing slight discoloration and marbling, particularly around the abdomen and upper thighs. The limbs are marked with red tape at the wrists and ankles, with small tags attached to the arms."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2011.007.04.06.2011 (9).jpg",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with the head positioned at the left side and the feet extended towards the right. The body is partially visible, showing the torso and upper legs, with the lower extremities out of frame. The skin exhibits extensive insect activity, with numerous insects present, particularly around the head area. The surface shows dark discoloration and early tissue breakdown, with areas of wet, peeling skin and localized fluid release consistent with active decomposition."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2011.011.07.23.2011 (6).jpg",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin exhibits significant dark discoloration, particularly around the chest and abdomen, where the contours appear slightly distended with tissue breakdown, with the body contour appearing collapsed and the soft tissue visibly breaking down. The surface shows signs of insect activity, with small flies visible on the exposed flesh."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2011.011.07.23.2011 (7).jpg",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin exhibits significant dark discoloration, with some areas appearing darkened and breaking down and others liquefied. Insect activity is evident, with flies present on the exposed portions of the body."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2011.021.01.04.2012 (2).jpg",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on the ground, with the upper body and arms extended outward. The skin appears darkened and breaking down and darkened, with visible insect activity and some body fluids present."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2011.021.01.16.2012 (6).jpg",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies in a supine position, with its limbs extended outward. The skin exhibits significant dark discoloration, with areas of blackened tissue, indicating active decomposition, with the body contour appearing collapsed and the soft tissue visibly breaking down. The hands and feet are partially covered by plastic bags, and the surface shows signs of insect activity."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2011.021.03.05.2012 (9).jpg",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on the ground, with the upper body and arms extended outward. The skin appears darkened and breaking down and discolored, with visible insect activity and some body fluids present."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2011.021.12.15.2011 (1).jpg",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on the ground, with the upper body and arms extended outward. The skin shows signs of peeling and dark discoloration, with visible insect activity around the head and neck area."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2011.022.01.07.2012 (3).jpg",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies in a supine position, with the upper body and arms extended outward. The skin exhibits significant dark discoloration, with areas of blackened tissue and fluid pooling visible, with the body contour appearing collapsed and the soft tissue visibly breaking down. The lower extremities are partially visible, showing signs of decay and distortion."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2011.022.12.16.2011 (5).jpg",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended. The skin shows multiple bruises and lacerations, with some areas appearing distended with tissue breakdown and discolored, with the body contour appearing collapsed and the soft tissue visibly breaking down. The lower extremities extend out of the frame, and the surface of the body is marked by visible injuries and bloodstains."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2011.022.12.22.2011 (2).jpg",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended. The skin appears darkened and breaking down with visible dark discoloration and some dark discoloration, with plastic gloves placed around the limbs, with visible soft-tissue breakdown and active decomposition change."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2011.022.12.27.2011 (2).jpg",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on a grassy surface, with the upper body and arms extended outward. The skin exhibits significant peeling, dark discoloration, and discoloration, with areas of liquefaction and tissue damage visible."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2011.023.01.07.2012 (4).jpg",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended. The skin exhibits signs of decomposition, including peeling and dark discoloration, with visible insect activity around the head and torso."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2011.023.01.10.2012 (2).jpg",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies in a supine position, with the upper body partially exposed and the lower extremities extending out of the frame. The skin exhibits significant peeling and dark discoloration, with areas of liquefaction visible, particularly around the torso and limbs."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2011.023.01.12.2012 (3).jpg",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with its head and the feet extending out of the frame. The skin is extensively peeling, revealing dark discoloration beneath, and there is visible body fluid pooling around the abdomen."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2011.023.01.19.2012 (6).jpg",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human lies supine on grass, with its hands and feet partially covered by a transparent plastic bag. The skin is darkened and breaking down, with patches of dark discoloration and dark discoloration, and there is visible insect activity around the head and neck area. The full subject is not fully visible due to the plastic covering and the angle of the photograph."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2011.023.01.24.2012 (6).jpg",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with its head oriented towards the bottom left corner and its feet extending towards the top right. The body is visibly decomposed, with a darkened and breaking down texture and patches of dark discoloration and discoloration. The skin appears to be partially peeled away, revealing underlying tissue, with signs of insect activity around the limbs."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2011.023.01.27.2012 (12).jpg",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with its head positioned towards the left side of the frame. The body is partially intact, with the skin exhibiting significant peeling and dark discoloration, particularly around the torso and limbs. The surface shows signs of insect activity, with visible maggots and body fluids present."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2011.023.12.28.2011 (6).jpg",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended. The skin appears darkened and breaking down, and there is visible insect activity around the head and neck area."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2012.002.01.16.2012 (7).JPG",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin appears darkened and breaking down, with visible injuries and a dark, possibly dried substance on the chest area. The lower extremities are not fully visible within the frame, with visible soft-tissue breakdown and active decomposition change."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2012.002.01.17.2012 (3).JPG",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin shows signs of trauma, including a large wound on the right arm and bruising across the chest and abdomen, with the body contour appearing collapsed and the soft tissue visibly breaking down. The lower extremities are visible, with one leg slightly bent at the knee."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2012.002.01.17.2012 (4).JPG",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin shows signs of trauma, including a large wound on the right side of the abdomen, with visible bruises and discolorations across the torso and limbs, with the body contour appearing collapsed and the soft tissue visibly breaking down."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2012.002.01.18.2012 (7).jpg",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin shows signs of trauma, with visible wounds and discoloration, and there is evidence of insect activity around the head area, with the body contour appearing collapsed and the soft tissue visibly breaking down."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2012.002.01.22.2012 (9).jpg",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin shows signs of peeling and dark discoloration, with visible body fluids and tissue damage around the limbs and torso."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2012.002.01.23.2012 (7).jpg",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin appears darkened and breaking down and discolored, with visible insect activity and some areas of liquefaction."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2012.002.01.30.2012 (8).jpg",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin exhibits significant peeling and dark discoloration, with visible body fluids and insect activity around the head and torso area."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2012.002.02.07.2012 (7).JPG",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with the lower extremities extended and the upper torso partially visible. The skin exhibits dark discoloration and discoloration, with some areas appearing darkened and breaking down and others liquefied, with visible soft-tissue breakdown and active decomposition change."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2012.003.02.07.2012 (3).jpg",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin appears darkened and breaking down, with visible insect activity and some surface discoloration."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2012.003.02.13.2012 (3).jpg",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on the ground, with the upper body and arms extended outward. The skin appears darkened and breaking down, with some areas showing signs of insect activity, particularly around the head and hands."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2012.003.02.15.2012 (3).jpg",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on the ground, with the upper body and arms extended. The skin appears darkened and breaking down and darkened, with visible insect activity and some body fluids present."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2012.003.02.20.2012 (4).jpg",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on a grassy surface, with its body partially exposed. The skin appears darkened and breaking down and darkened, with visible signs of decay and insect activity."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2015.009.03.16.2015 (6).JPG",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin shows signs of insect activity and some discoloration, with no visible fluid leakage or significant distended with tissue breakdown, with the body contour appearing collapsed and the soft tissue visibly breaking down."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2015.009.03.20.2015 (7).JPG",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin is discolored with patches of orange and black, and there is visible insect activity around the body, with the body contour appearing collapsed and the soft tissue visibly breaking down."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2019.001.02.15.2019 (12).JPG",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin exhibits significant peeling and dark discoloration, with areas of discoloration and liquefaction visible, particularly around the limbs and torso."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2019.001.02.19.2019 (2).JPG",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with its limbs extended outward. The skin is visibly darkened and discolored, with patches of blackened tissue, indicating active decomposition, with the body contour appearing collapsed and the soft tissue visibly breaking down. The full subject is not fully visible, with portions of the head and feet out of frame."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2019.001.02.21.2019 (2).JPG",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with its limbs extended outward. The skin is visibly darkened and discolored, with patches of blackened tissue, indicating active decomposition. The surface shows signs of insect activity, with maggots present around the edges of the subject."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2019.001.02.27.2019 (12).JPG",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with its limbs extended outward. The skin is visibly peeling and darkened, with areas of dark discoloration and liquefaction. The full subject is not fully visible, with portions of the body obscured by the surrounding grass."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2019.001.03.11.2019 (12).JPG",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human lies supine on grass, with its body partially exposed. The skin appears darkened and breaking down and darkened, with dark discoloration concentrated around the midsection. The legs are extended, and the feet is visible, bound with red material, with visible soft-tissue breakdown and active decomposition change."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2019.001.03.21.2019 (13).JPG",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with its body partially exposed. The skin is darkened and breaking down, with areas of discoloration and dark discoloration, and there is visible insect activity around the edges."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ACTIVE_DECAY/2019.001.03.27.2019 (2).JPG",
+    "label": "ACTIVE_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with its body partially exposed. The skin is darkened and breaking down, with visible dark discoloration and some areas of discoloration, particularly around the head and limbs. The body appears to be in an advanced stage of decomposition, with some areas showing signs of insect activity."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2015.009.03.26.2015 (7).JPG",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies in a supine position, with the upper body and arms extended outward. The skin is extensively dry tissue loss, revealing dry discoloration beneath, and there is significant insect activity, including limited insect activity, covering the surface. The abdomen appears reduced, and the overall appearance is leathery and drying."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2011.007.05.07.2011 (15).jpg",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies in a supine position, with the head oriented towards the left side of the frame. The body is nearly complete, with the skin appearing leathery and dry over the contours of the skeleton. The surface shows no visible signs of insect activity or limited residual tissue moisture, and the skin lacks any noticeable dry tissue loss or discoloration."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2011.008.07.12.2011 (7).jpg",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies in a supine position, with its body partially decomposed. The skin is leathery and discolored, with limited insect activity and some limited residual tissue moisture present."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2011.008.07.12.2011 (8).jpg",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies in a supine position, with its limbs extended outward. The skin is leathery and discolored, with limited insect activity and limited residual tissue moisture present around the thoracic region."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2011.008.07.26.2011 (6).jpg",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies in a supine position, with its head oriented towards the left side of the frame. The body is mostly intact but shows signs of decomposition, with the skin appearing leathery and the skull partially exposed."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2011.008.08.12.2011 (6).jpg",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies in an extended position, with its limbs splayed outward. The skin is leathery and partially decomposed, revealing underlying bones and internal structures. The surface shows signs of insect activity, with visible limited insect activity trails and some limited residual tissue moisture present."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2011.011.07.26.2011 (8).jpg",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies supine on the ground, with the upper body and arms extended outward. The skin is leathery and dry and darkened, with limited insect activity and limited residual tissue moisture present around the limbs."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2011.011.07.27.2011 (8).jpg",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies in a supine position, with the upper body and arms extended outward. The skin is leathery and discolored, with limited insect activity and limited residual tissue moisture present around the torso and limbs."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2011.011.07.30.2011 (6).jpg",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies in a supine position, with the upper body and arms extended outward. The skin appears leathery and darkened, with visible dry discoloration and discoloration, particularly around the chest and abdomen. The lower extremities are partially visible, showing signs of decay and distortion."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2011.011.08.03.2011 (6).jpg",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies in a supine position, with the upper body and arms extended outward. The skin is leathery and discolored, with limited insect activity around the head and neck area."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2011.011.08.05.2011 (6).jpg",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies in a supine position, with the upper body and arms extended outward. The skin is leathery and discolored, with limited insect activity and some areas of soft-tissue loss."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2011.011.08.13.2011 (6).jpg",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies in a supine position, with the upper body and arms extended outward. The skin is leathery and discolored, showing signs of decomposition, with limited insect activity around the head and torso."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2011.011.08.23.2011 (6).jpg",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies in a supine orientation, with the upper body and head prominently displayed. The skin is leathery and shows signs of desiccation, with some areas appearing charred. The lower extremities extend out of the frame."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2011.021.01.25.2012 (5).jpg",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies supine on the ground, with the upper torso and arms visible. The skin appears leathery and dry and darkened, with some areas showing signs of insect activity and limited residual tissue moisture present."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2011.021.02.13.2012 (3).jpg",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies supine on the ground, with the upper body and arms extended outward. The skin appears leathery and dry and darkened, with limited insect activity around the limbs and torso."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2011.021.02.16.2012 (3).jpg",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies supine on the ground, with the upper body and arms extended outward. The skin is dry and darkened and discolored, with limited insect activity and limited residual tissue moisture present."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2011.021.02.20.2012 (8).jpg",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human lies supine on the ground, with its limbs extended outward. The skin is extensively discolored, showing patches of black and orange, with some areas appearing leathery and others drying. The surface shows signs of insect activity, with visible limited insect activity and limited residual tissue moisture present."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2011.021.02.27.2012 (10).jpg",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies supine on the ground, with its legs extended outward. The skin is charred and discolored, showing signs of decomposition, with some areas appearing leathery and others drying."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2011.021.03.12.2012 (8).JPG",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human lies in a supine position, with its head oriented towards the right side of the frame. The body is partially decomposed, exhibiting a leathery texture and darkened coloration. The surface shows signs of insect activity, with visible limited insect activity and some limited residual tissue moisture present."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2011.022.01.06.2012 (4).jpg",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject is partially visible in a supine orientation, with the lower extremities extending out of the frame. The skin of the exposed torso exhibits dry discoloration and discoloration, while the abdominal contour appears reduced and leathery."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2011.022.01.18.2012 (7).JPG",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin is leathery, dry and darkened, and discolored, with limited insect activity and some limited residual tissue moisture present."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2011.022.02.20.2012 (2).jpg",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin is leathery, with visible dry discoloration and discoloration, and there is some insect activity around the head area."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2011.022.12.21.2011 (3).jpg",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with limbs extended and hands covered by gloves. The skin exhibits significant discoloration and dry discoloration, with areas of dry tissue loss and soft-tissue loss, particularly around the torso and limbs."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2011.023.03.01.2012 (7).jpg",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies in a supine position, with the upper body and arms extended outward. The skin is leathery and discolored, with limited insect activity and some limited residual tissue moisture present."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2011.023.12.20.2012 (6).jpg",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies in a supine orientation, with its limbs extended outward. The skin is leathery and exhibits signs of decay, with some areas appearing charred and discolored."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2012.002.02.14.2012 (7).jpg",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies supine on the ground, with the upper body and arms extended outward. The skin is leathery, with limited insect activity and some areas of soft-tissue loss, particularly around the torso and limbs."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2012.002.03.20.2012 (5).JPG",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies in a supine orientation, with its limbs extended outward. The skin appears leathery and charred, with visible signs of decomposition and insect activity."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2012.002.04.20.2012 (8).jpg",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies in a supine position, with the upper body and arms extended outward. The skin appears leathery and discolored, with limited insect activity and some areas of missing flesh."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2012.003.03.06.2012 (10).jpg",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies in a supine position, with the upper body and head prominently displayed. The skin appears leathery and discolored, with limited insect activity around the head and neck area."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2012.003.03.08.2012 (5).JPG",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies in a supine position, with the upper body and limbs extended. The skin appears leathery and darkened, with visible signs of decomposition, including soft-tissue loss and discoloration."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2012.048.01.31.2013 (6).jpg",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human lies in a supine position, with its limbs extended outward. The skin appears leathery and discolored, with visible signs of decay and insect activity. The full subject is not fully visible due to the angle and framing of the photograph."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2012.048.03.01.2013 (4).jpg",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies in a supine position, with its limbs extended outward. The skin appears leathery and darkened, with no visible signs of insect activity or limited residual tissue moisture. The full subject is visible, but the head is partially obscured by the surrounding grass."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2012.048.04.12.2013 (6).JPG",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies in a supine position, with the upper body and head prominently displayed. The skin is leathery and discolored, with limited insect activity around the head area."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2015.009.04.07.2015 (6).JPG",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies in a supine position, with the upper body and head clearly visible. The skin appears leathery and darkened, with no visible signs of insect activity or limited residual tissue moisture present."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2015.009.04.15.2015 (6).JPG",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies in a supine position, with the upper body and arms extended outward. The skin appears leathery and dry, with no visible signs of soft-tissue reduction or distension. The surface shows no significant discoloration or insect activity, and the full subject is fully visible within the frame."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2015.009.04.17.2015 (7).JPG",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies in a supine position, with the upper body and head prominently displayed. The skin is leathery and discolored, with limited insect activity around the skull area."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2015.009.04.23.2015 (8).JPG",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies in a supine position, with the upper body and arms extended outward. The skin appears leathery and darkened, with no visible signs of insect activity or limited residual tissue moisture present."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2015.009.05.01.2015 (7).JPG",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies in an extended position, with its head oriented towards the left side of the frame. The skin is leathery and darkened, with no visible signs of insect activity or limited residual tissue moisture. The full subject is not fully visible, as the feet extends beyond the frame's right edge."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2015.009.05.15.2015 (14).JPG",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human remains is positioned in a supine orientation, with the skull and upper torso clearly visible. The skin is absent, exposing the underlying bone structure, which shows signs of decay and weathering."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2015.009.05.27.2015 (7).JPG",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies in a supine position, with its body partially decomposed and covered in blackened tissue. The surface shows significant dry tissue loss and dry discoloration, with limited insect activity and scattered limited residual tissue moisture. The full subject is not fully visible due to the angle and extent of decomposition."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2019.001.01.10.2019 (12).JPG",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human lies supine on grass, with its body partially exposed. The skin appears leathery and dry and darkened, with some areas showing signs of discoloration and possible insect activity. The full subject is not fully visible, with the head and part of the legs extending beyond the frame."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2019.001.03.15.2019 (12).JPG",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human lies supine on grass, with its body partially exposed. The skin appears leathery and dry and darkened, with some areas showing dark discoloration. The legs are extended, and red tags are attached to them."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2019.001.04.04.2019 (11).JPG",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies supine on grass, with the upper body and arms extended outward. The skin is leathery, with visible dry discoloration and some dark discoloration, and there is evidence of insect activity around the torso."
+  },
+  {
+    "image": "PMI_Class_Split/val/images/ADVANCED_DECAY/2019.001.05.17.2019 (12).JPG",
+    "label": "ADVANCED_DECAY",
+    "caption": "In this sample, a human subject lies in a supine position, with the upper body and arms extended outward. The skin is leathery and discolored, with limited insect activity and limited residual tissue moisture present."
+  }
+]
