@@ -8,7 +8,7 @@ FMDD addresses the challenge of estimating time since death in outdoor environme
 
 Key properties:
 
-- 741 RGB images from 99 donors, covering 0–90 days post‑placement.  
+- 741 RGB images from 99 donors, covering 1-384 days post‑placement.  
 - Semi‑automatic curation with foundation‑model‑assisted body segmentation and expert‑reviewed masks.  
 - Image‑to‑text captions produced by a multimodal model and manually standardized for visual grounding.  
 - Harmonized, gap‑filled weather records aligned to each donor’s decomposition timeline, sourced from NOAA, Open‑Meteo, and local Freeman Ranch stations.
