@@ -27,7 +27,7 @@ PMI_Class_Split/
 ### Segmentation Dataset
 The segmentation dataset is organized by split and full body binary masks
 ```text
-PMI_Class_Split/
+Segmentation/
 ├── train/
 ├── val/
 └── test/
