@@ -1,4 +1,5 @@
 # Dataset Organization
+
 ## Overview
 
 This dataset is released in four companion parts, all with predefined train, val, and test splits: 
@@ -49,3 +50,6 @@ metadata_split/
 ├── train_metaData.csv
 ├── val_metaData.csv
 └── test_metaData.csv
+
+
+### Dataset loading examples are given in this repository.
