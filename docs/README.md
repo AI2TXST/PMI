@@ -51,5 +51,3 @@ metadata_split/
 ├── val_metaData.csv
 └── test_metaData.csv
 ```
-
-### Dataset loading examples are given in this repository.
